@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="ii">
+    <file>images/about2.jpg</file>
+    <file>images/about.jpg</file>
+    <file>images/binary.png</file>
+    <file>images/invert.png</file>
+    <file>images/brightness.png</file>
+    <file>images/edge.png</file>
+    <file>images/cartoon.png</file>
+    <file>images/effects.png</file>
+    <file>images/home_back.jpg</file>
+    <file>images/blur.png</file>
+    <file>images/glass.png</file>
+    <file>images/filter.png</file>
+    <file>images/home.png</file>
+    <file>images/info.png</file>
+    <file>images/men.png</file>
+    <file>images/minus_2.png</file>
+    <file>images/white_x.png</file>
+  </qresource>
+</RCC>
